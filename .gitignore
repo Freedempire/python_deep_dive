@@ -1,3 +1,7 @@
 .vscode
 __pycache__
 test.py
+temp.txt
+log.txt
+dev.ini
+prod.ini
